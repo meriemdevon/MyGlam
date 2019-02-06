@@ -1,0 +1,81 @@
+header{
+background-image: url(../images/slider_image_home@1x.png);
+min-height: 85vh;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+color: white;
+}
+
+
+a.btn{
+
+    margin-top: 20px;
+padding-left: 6pc;
+padding-right: 7pc;
+}
+#im{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#clc{
+	color: white;
+}
+#cl{
+	margin-top: 30px;
+	color: red;
+
+}
+
+#ligne{
+		border-bottom:3px solid red;
+		    margin-left: 35pc;
+		    margin-right: 35pc;
+		    margin-top: 15px;
+
+}
+
+#rj{
+	background-color:red;
+	margin-right: 100px;
+	margin-left: 400px;
+
+}
+
+
+#ligneBlanc{
+	border-bottom:3px solid white;
+	margin-left: 20pc;
+	margin-right: 20pc;
+	margin-top: 15px;
+
+}
+.row{
+	margin-top: 50px;
+
+}
+.bas{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#reserve{
+	background-color:red;
+	margin-right: 100px;
+	margin-left: 500px;
+}
+#marg{
+	margin-top: 300px;
+}
+#rouge{
+	background-color:red;
+	margin-top: 40px;
+}
+#suscribe{
+	background-image: url(../images/news_letter_background_image_home@1x.png);
+	color: white;
+	margin-top: 60px;
+}
+#marginh{
+	margin-top: 50px;
+}
+   
